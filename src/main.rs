@@ -1,6 +1,4 @@
 use rand::random;
-use std::io::repeat;
-
 fn main() {
     let p_a = 0.86;
     let p_b = 0.75;
