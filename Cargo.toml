@@ -1,0 +1,10 @@
+[package]
+name = "lab5"
+version = "1.0.0"
+edition = "2022"
+description = "Лабораторная работа № 5. Вариант 4. Задание 1."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
